@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-04T15:13:32-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/chihiro-t/kichwa_audio/Chapter19/19 MASTER K19.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./19 MASTER K19.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:60c46de8-6cfb-4231-8859-958e257a8733</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">316</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="11190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="11260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="16580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="16580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="21045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="21140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="23400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="24385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="26835"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="26875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="29265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="29345"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="31075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="31155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="32595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="35800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="41220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="41220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="45360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="45395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="47365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="47405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="49195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="49300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="52140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="52355"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="53915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="54000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="59650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="59740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="62540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="62600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="63930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="64120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="66100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="66575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="67635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="67660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="68320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="70385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="73255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="74095"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="76155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="78780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="83640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="83685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="86575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="86645"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="90735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="90760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="96720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="96910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="98550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="98625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="100705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="100750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="103770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="104540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="107820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="109450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="111620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="117140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="123380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="125200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="127330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="127460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="129110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="129530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="132150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="132380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="135860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="136900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="140500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="145090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="156190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="156370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="158630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="160710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="170950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="170960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="173050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="173100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="177470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="182090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="185310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="185320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="191560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="192830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="196730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="196920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="204000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="204200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="208350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="208460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="213280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="213340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="220070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="220470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="223110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="223125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="226425"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="227340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="228870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="229450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="236520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="236540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="238740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="239220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="244860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="244870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="247400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="247720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="261620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="261630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="267420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="267510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="277540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="277660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="281530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="282660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="290600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="290670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="292280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="293600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="299020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="299025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="303340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="303370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="306620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="306710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="312720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="312780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="314270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="314370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="328300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="328330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="333040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="333100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="336500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="340210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="346100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="346300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="350180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="350310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="354200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="354640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="361560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="361695"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="364325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="364990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="370100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="370100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="373880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="373910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="379040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="379920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="386160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="386200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="390260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="390280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="397050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="397090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="401000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="401000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="406260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="406280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="407195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="407195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="409265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="409505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="412855"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="416433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="420033"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="420270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="423230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="423380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="429860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="431130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="434490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="434610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="440180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="440420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="443050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="443250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="452160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="452450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="453870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="454140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="458820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="459020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="463470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="463700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="467130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="467300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="470810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="472430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="478640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="479190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="482700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="482740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="485260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="485290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="490740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="490780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="495890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="498180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="503980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="504030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="508990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="514150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="515920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="516200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="520860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="521085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="522995"/>
+        <TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="523215"/>
+        <TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="525895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts221" TIME_VALUE="526630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts222" TIME_VALUE="529080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts223" TIME_VALUE="535580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts224" TIME_VALUE="538180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts225" TIME_VALUE="538180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts226" TIME_VALUE="541120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts227" TIME_VALUE="541130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts228" TIME_VALUE="543360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts229" TIME_VALUE="544080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts230" TIME_VALUE="545780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts231" TIME_VALUE="545795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts232" TIME_VALUE="550915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts233" TIME_VALUE="551280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts234" TIME_VALUE="558710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts235" TIME_VALUE="558760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts236" TIME_VALUE="565190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts237" TIME_VALUE="565250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts238" TIME_VALUE="569670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts239" TIME_VALUE="569670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts240" TIME_VALUE="573400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts241" TIME_VALUE="573630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts242" TIME_VALUE="579270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts243" TIME_VALUE="580160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts244" TIME_VALUE="582960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts245" TIME_VALUE="583010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts246" TIME_VALUE="587510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts247" TIME_VALUE="587530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts248" TIME_VALUE="590900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts249" TIME_VALUE="590940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts250" TIME_VALUE="597300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts251" TIME_VALUE="597530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts252" TIME_VALUE="601200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts253" TIME_VALUE="601200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts254" TIME_VALUE="606870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts255" TIME_VALUE="606890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts256" TIME_VALUE="611990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts257" TIME_VALUE="612085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts258" TIME_VALUE="614245"/>
+        <TIME_SLOT TIME_SLOT_ID="ts259" TIME_VALUE="614270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts260" TIME_VALUE="617260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts261" TIME_VALUE="617350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts262" TIME_VALUE="623500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts263" TIME_VALUE="623530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts264" TIME_VALUE="630940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts265" TIME_VALUE="631000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts266" TIME_VALUE="636830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts267" TIME_VALUE="636830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts268" TIME_VALUE="644970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts269" TIME_VALUE="645140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts270" TIME_VALUE="651500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts271" TIME_VALUE="651780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts272" TIME_VALUE="653690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts273" TIME_VALUE="659360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts274" TIME_VALUE="661800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts275" TIME_VALUE="661925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts276" TIME_VALUE="664525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts277" TIME_VALUE="664600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts278" TIME_VALUE="672040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts279" TIME_VALUE="675630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts280" TIME_VALUE="678140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts281" TIME_VALUE="678140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts282" TIME_VALUE="679990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts283" TIME_VALUE="679990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts284" TIME_VALUE="682940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts285" TIME_VALUE="682960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts286" TIME_VALUE="685280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts287" TIME_VALUE="685295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts288" TIME_VALUE="686645"/>
+        <TIME_SLOT TIME_SLOT_ID="ts289" TIME_VALUE="686690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts290" TIME_VALUE="691220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts291" TIME_VALUE="691220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts292" TIME_VALUE="696860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts293" TIME_VALUE="696885"/>
+        <TIME_SLOT TIME_SLOT_ID="ts294" TIME_VALUE="699330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts295" TIME_VALUE="699352"/>
+        <TIME_SLOT TIME_SLOT_ID="ts296" TIME_VALUE="700452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts297" TIME_VALUE="700477"/>
+        <TIME_SLOT TIME_SLOT_ID="ts298" TIME_VALUE="704557"/>
+        <TIME_SLOT TIME_SLOT_ID="ts299" TIME_VALUE="704557"/>
+        <TIME_SLOT TIME_SLOT_ID="ts300" TIME_VALUE="706557"/>
+        <TIME_SLOT TIME_SLOT_ID="ts301" TIME_VALUE="706602"/>
+        <TIME_SLOT TIME_SLOT_ID="ts302" TIME_VALUE="709440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts303" TIME_VALUE="709456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts304" TIME_VALUE="713076"/>
+        <TIME_SLOT TIME_SLOT_ID="ts305" TIME_VALUE="713640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts306" TIME_VALUE="718750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts307" TIME_VALUE="718790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts308" TIME_VALUE="722990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts309" TIME_VALUE="726340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts310" TIME_VALUE="728780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts311" TIME_VALUE="728795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts312" TIME_VALUE="731125"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Kunan puncha elecciónkunata charinchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Jabonero ayllullaktapika, tukuy municipiomanta runakuna manllaywan, nervioso shinakuna kan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Tukuchinkapakka, tayta Amaru Sánchez, kikinka alcaldíata mishasha yuyankichu?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Mana atallpa shina kapariychu, manarak lulunta wachashpaka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Shinapash mishashunmi yuyanimi.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Jaboneropak ayllullaktapi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Pandemiamanta rimaykuna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Chunka iskun capítulo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Uyashpa pushana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Yankata willaykuna uyarin, na alli rimaykunawanpash uyarin, ari, chisme nishkakuna.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Wamintsi wasipikarin, apuestaskunapash mirarishka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Ashtawan uyachinkapak munankichik?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Hakuchik, ñukawan, hakuchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Ñukaka pichkatami pastormanta churakrini.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Huyayay Cristo Rey!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Shinaka, ñukaka Amarumanta chunkata churakrini, chay urkumanta shamushka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Imatak ninakunkichik, shuwa ankakuna?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Apoloniomi kan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Chayka mishanka mishankami.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Mishankamari.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Yurak.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Ñukataka chica fuego kuytsawan sakiwachun.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Patita de Santoman munani.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Ñami chay urnas nishkakunataka municipiopa ayllullaktakunapika churashka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Tukuylla runa llaktakunapipashmi ña churashka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Pushakkunata akllankapakka cédulawan, mascarillawan rina kan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Ñukaka mana hamuktanichu, imashpa alcaldesa Magdalena mana reelecciónman rishka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Mishanamanmi karka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Ñukapash shinami tapurini.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Amaru Sánchezwan watarishkami yarin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Kullkimantachu, kuyarimantachu watarishka?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Chaymankaman na chayanichu, mashi. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Tukuy partidokunami campañata rurak local ukupi kan, makanakunkapakshina alistarinakun.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Pastorta uyankapak munankichik?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Paypa iglesiaman hakuchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Kunanka mana ñuka mishakrinichu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Wawkikuna, Jesucristomi mishakrin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Bibliaka alcaldíapi ñukanchik kushikuymi kakrin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Chay mana pinka sinchi ñawi Apolonioka, shina willachiwarka ñukaman, marihuanata Guapowan fumanakushka nin, paykuna, paykunapa pandillawanpash.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Kayka ña ñukanchikpamari.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>Chay empresario Armando runapash whiskyta upyakushka, payka mishanapacha kani nishka purikurka ashtaka kullkita kushka kashkamanta.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Upyapashun, don Armando, upyapashun!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>Upyapashun, upyapashun, hidroeléctricamanta, ñankunamantapash.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>Ñukanchikka ñukapa wasipimi tantanakurkanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Gumersinda, ari, huertomanta cooperativamanta warmi, chaykunata pushak, paypash chayamurka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>Electrónicamanta yachak mashi Joaquín, paypash shamurka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>Uyachik antamanta wamprakunapash chayamurkami, uyachina antapika takikunatalla churashpa sakirka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>Marta, shinallatak hampik mashipash chayamurkakunami.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>Eh, mejor tukuy Matria Libre partidomantakunami chayamurkakuna.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>Amaru Sánchez, ñukanchikpa candidato, paypak sumak yana muchikuta churakushka shamurka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Imanallatak kanki, Amaru?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>Kasilla, kasilla, shinapash ña yachasha nishpa.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>Mishakrinchikchu, mashi Amaru?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>Mana yachanchikchu, mashi Gumer, Jaboneropi kanchik, pi mana urmashpaka, lluchkarinmi.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>Shinapacha, mashi.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>Alcaldíataka na tanto yuyanichu, ashtawankarin consulta populartami munani.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>Chaytaka mana chingachinachu kanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>Hawa larka umapi kawsakkunawan piñanakuykunamantami ministerio ukumantakunaka shuk consulta popular nishkata churashun nirka, kay minería a cielo abierto nishkamanta tapuyta rurankapak.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>Shinapash chaytaka ñami kunkashka karkakuna, alcaldesaka mana kunkarkachu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>Magdalenaka shuk consulta popularta rurankapak shuk urnakunata churashkami, alcaldekunapak consejalkunapak akllana manyapi.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>Chay papeletakunaka shuklla tapuyta charirkami.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>Kikinka ari ninkichu, mayu kuchukunapi shinallatak yaku pukyukunapi kurikunata maskashpa ama allachun?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>Ari, mana?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>Consultata mishashpaka, alcaldíata mana mishashpapish, kushillami kakrinchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>Ama kunkankichu, kayka mana vinculante nishkachu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>Shinapash mishaykunawanmi vinculanteta rurashun.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a126"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>Shuk wipalatami charishun, imperio Golden Hands nishkawan makanakunkapak.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>Chayka shinami kan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a128"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>Ashtawankarin, chay mishay consultakunata ruragrinchik, kay Amazonía petroleomanta, sachakunata wakrakunata tukuchishkamanta, transgénico, glifosatokunamantapash.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>Na alli shinaykunami alaparin, shinapash allikunapashmi alaparin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a130"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>Ñuka tapuy, yachanimi, yachashami.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>Kanchis pacha tutamantami kan, kay ánfora nishkakunataka paskashkami ña.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a132"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>Rikuychik, votankapakka largo filakuna tukushka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a133"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>Ashtawan hatun tukushka karu karulla kanamanta.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>Camisetakunata, wipalakunata, partidokunamanta gorrakunataka mana churakushka purinakunachu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a150"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>Cervezakunapash mana tiyanachu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151"
+                TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>Shinapash, ari, imatapash rimanakunkapakka pachakunaka tiyanllami, nachu?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>Karuyaychik, caraju, cajakunata pipash mana shuwankachu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153"
+                TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>Urnakunataka mana, shinapash papeletakunataka ari.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a154"
+                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>Kay llaktapika llullakkunaka tiyanami, chaykuna mana alli rurankachu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a155"
+                TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>Ama takuriy kallariychikchu, alcaldía allimi kay tukuyta rurashka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a156"
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>Alcaldía imata rurashka kakpipash, kunanka Jesucristomi mishakrin, Alabado kachun.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157"
+                TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>Kankuna ñami yachakrinkichik pimi último asikrin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a158"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>Paniku kipaman asirikka mana entendishpapash kipaman asirinllami.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a169"
+                TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>Kariyarishka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a170"
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>Kay llaktaka llakipi urmashkamari.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a171"
+                TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>Chay papelta uchalla satikriy, upallay, mashi.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a172"
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>Pichka pacha chisi kan, ña urnakuna wicharishkami.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173"
+                TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>Kunanka yupaykunata shuyana kanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a174"
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>Consulta popular nishkawan kallarikrin, ari mana shina nishkakunalla kashkamanta.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a175"
+                TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>Uyaychik, mashikuna mamakuna.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176"
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>Yupana comisiónka ñami charin kay consulta popularmanta paktachishkakunata.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a177"
+                TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>Uyaychik, kaytami tapunakurka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a178"
+                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>Kikinka ari ninkichu, ama explotación minera metálica a gran escala mayu umakunapi tukuy yakukunapi tiyachun?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a179"
+                TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>Ari o mana?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a180"
+                TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>Ciento cuarenta y un mil setecientos cuarenta y siete votokunawan mishashka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a181"
+                TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>Chayka nisha ninmi ochenta y dos punto siete por ciento votokunami kan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a182"
+                TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>Quince punto uno por cientoka mana mishashka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a183"
+                TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>Dos punto dos por ciento mana válido o yurakmi kan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a184"
+                TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>Shinaka kay municipioka paypa allpapi hatun empresa minera metálicata mana munanchu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a185"
+                TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>Oy, ña kaywanka ñukaka kushillami kani.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a186"
+                TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
+                <ANNOTATION_VALUE>Alcaldíata chinkachirinka yankichu?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a187"
+                TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts206">
+                <ANNOTATION_VALUE>Pastorkuna, Apoloniokuna, empresariokuna ama mishashpalla alli kanka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a188"
+                TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts208">
+                <ANNOTATION_VALUE>Imatatak munanki, kay futbolista o kay tushuk kuytsaku mishachunchu?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a209"
+                TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts210">
+                <ANNOTATION_VALUE>Pusak pacha tutapimi, municipiota pushak maykan misharishkataka yachashun.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a210"
+                TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>Kunanka mushuk alcaldepa shutika, pishi, chayta riksikrinchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211"
+                TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
+                <ANNOTATION_VALUE>Muskuypicha karkanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a212"
+                TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
+                <ANNOTATION_VALUE>Ñukanchik Amaru Sánchez candidatomi iskun puntowan mishashka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a213"
+                TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts218">
+                <ANNOTATION_VALUE>Tukuyta pankalla mishashka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a214"
+                TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts220">
+                <ANNOTATION_VALUE>Ima yapa muskuypicha karkanchik?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a221"
+                TIME_SLOT_REF1="ts221" TIME_SLOT_REF2="ts222">
+                <ANNOTATION_VALUE>Yupaychani, ninanta yupaychanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a222"
+                TIME_SLOT_REF1="ts223" TIME_SLOT_REF2="ts224">
+                <ANNOTATION_VALUE>Don Amaru, Radio Mundialman shuk willayta karaway.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a223"
+                TIME_SLOT_REF1="ts225" TIME_SLOT_REF2="ts226">
+                <ANNOTATION_VALUE>Kishpichiway, Te ve la televisiónmantami kanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a224"
+                TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts228">
+                <ANNOTATION_VALUE>Willachina panka kunuklla willachin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a229"
+                TIME_SLOT_REF1="ts229" TIME_SLOT_REF2="ts230">
+                <ANNOTATION_VALUE>Shuyapaychik, shuyapaychik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a230"
+                TIME_SLOT_REF1="ts231" TIME_SLOT_REF2="ts232">
+                <ANNOTATION_VALUE>Shuk rueda de prensatami rurakrinchik, chaypi tapuykunata kutichinkapak.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a231"
+                TIME_SLOT_REF1="ts233" TIME_SLOT_REF2="ts234">
+                <ANNOTATION_VALUE>Ashtaka uyachik antamanta periodistakuna, prensamantakuna, televisión ukumantakunapash chayamurka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a232"
+                TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts236">
+                <ANNOTATION_VALUE>Amaruka parquepi shuk tiyarinapi wichakashpa muyunti runakunapa ñawpi shayarirka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a233"
+                TIME_SLOT_REF1="ts237" TIME_SLOT_REF2="ts238">
+                <ANNOTATION_VALUE>Mashi Amaru, kanka políticamanta chayrak chayamushka kanki nachu?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a234"
+                TIME_SLOT_REF1="ts239" TIME_SLOT_REF2="ts240">
+                <ANNOTATION_VALUE>Runakunata ñawpakman apakshinami rikurini.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a235"
+                TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts242">
+                <ANNOTATION_VALUE>Don Amaru, imashinatak rikuna kanchik, runa makimanta, mana kashpaka llukimanta?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a236"
+                TIME_SLOT_REF1="ts243" TIME_SLOT_REF2="ts244">
+                <ANNOTATION_VALUE>Chaypika ñukataka ama satipay.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a237"
+                TIME_SLOT_REF1="ts245" TIME_SLOT_REF2="ts246">
+                <ANNOTATION_VALUE>Don Amaru, shinapash, kikinka allimanchu, llukimanchu rikunki?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a238"
+                TIME_SLOT_REF1="ts247" TIME_SLOT_REF2="ts248">
+                <ANNOTATION_VALUE>Ñukaka hawaman uraymanpash rikuni.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a239"
+                TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts250">
+                <ANNOTATION_VALUE>Hawapi kakkunaka yapata charin, shinapash ukupi kakkunaka ashatalla charin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a240"
+                TIME_SLOT_REF1="ts251" TIME_SLOT_REF2="ts252">
+                <ANNOTATION_VALUE>Kitikamay ukumantaka imalla kamachikkunatatak rurakrinkichik?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a241"
+                TIME_SLOT_REF1="ts253" TIME_SLOT_REF2="ts254">
+                <ANNOTATION_VALUE>Ñukanchik administraciónpika pachamamapak hayñikunatami ashtawan sinchiyachishun.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a242"
+                TIME_SLOT_REF1="ts255" TIME_SLOT_REF2="ts256">
+                <ANNOTATION_VALUE>Don Amaru, kikintaka medios de comunicaciónpika terrorista nishpami rimashka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a243"
+                TIME_SLOT_REF1="ts257" TIME_SLOT_REF2="ts258">
+                <ANNOTATION_VALUE>Kay hawamanta imatashi ninkiman?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a244"
+                TIME_SLOT_REF1="ts259" TIME_SLOT_REF2="ts260">
+                <ANNOTATION_VALUE>Terrorismoka llaki kawsaymi ashtawanka kan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a245"
+                TIME_SLOT_REF1="ts261" TIME_SLOT_REF2="ts262">
+                <ANNOTATION_VALUE>Imashinatak ñawpaman apakrinki alcaldíataka, consejo municipalwanpash imashinatak kakrin?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a246"
+                TIME_SLOT_REF1="ts263" TIME_SLOT_REF2="ts264">
+                <ANNOTATION_VALUE>Zapatista Méxicokuna nishkata yapatami alikachini, paykunaka nin, uyashpami pushana kanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a247"
+                TIME_SLOT_REF1="ts265" TIME_SLOT_REF2="ts266">
+                <ANNOTATION_VALUE>Mashi Amaru, Imapaktak kikinka elecciones municipaleskunata misharkanki?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a248"
+                TIME_SLOT_REF1="ts267" TIME_SLOT_REF2="ts268">
+                <ANNOTATION_VALUE>Shuk salvadoreño cura, teología de la liberaciónmanta kushipata, ñukaman yachachiwarka shuk takita.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a249"
+                TIME_SLOT_REF1="ts269" TIME_SLOT_REF2="ts270">
+                <ANNOTATION_VALUE>Ima pacha wakchakuna wakchakunallapita krikpi kishpiriyta takiy ushanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a250"
+                TIME_SLOT_REF1="ts271" TIME_SLOT_REF2="ts272">
+                <ANNOTATION_VALUE>Chaymi kunanka chayamushka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a251"
+                TIME_SLOT_REF1="ts273" TIME_SLOT_REF2="ts274">
+                <ANNOTATION_VALUE>Ñukapa wasipimi tantanakurkanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a252"
+                TIME_SLOT_REF1="ts275" TIME_SLOT_REF2="ts276">
+                <ANNOTATION_VALUE>Ninan ninan kushikushka karkanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a253"
+                TIME_SLOT_REF1="ts277" TIME_SLOT_REF2="ts278">
+                <ANNOTATION_VALUE>Amaruwan ukllarirkanchik, cervezatapash rantirkanchik, pakalla pakallapash rimariy kallarirkanchik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a254"
+                TIME_SLOT_REF1="ts279" TIME_SLOT_REF2="ts280">
+                <ANNOTATION_VALUE>Upiyashun, upiyashun!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a255"
+                TIME_SLOT_REF1="ts281" TIME_SLOT_REF2="ts282">
+                <ANNOTATION_VALUE>Salud, mashikuna, salud.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a256"
+                TIME_SLOT_REF1="ts283" TIME_SLOT_REF2="ts284">
+                <ANNOTATION_VALUE>Amaru, ñukaka kallarinami kanchik nini.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a257"
+                TIME_SLOT_REF1="ts285" TIME_SLOT_REF2="ts286">
+                <ANNOTATION_VALUE>Kutin katipakka imatak kan?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a286"
+                TIME_SLOT_REF1="ts287" TIME_SLOT_REF2="ts288">
+                <ANNOTATION_VALUE>Gobernaciónmi.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a287"
+                TIME_SLOT_REF1="ts289" TIME_SLOT_REF2="ts290">
+                <ANNOTATION_VALUE>Oy, shuyapay, shuyapay, allimanta ripashun, utkallami rina kani.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a288"
+                TIME_SLOT_REF1="ts291" TIME_SLOT_REF2="ts292">
+                <ANNOTATION_VALUE>Alcaldía, gobernación, kipamanka Asamblea Nacionalta.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a289"
+                TIME_SLOT_REF1="ts293" TIME_SLOT_REF2="ts294">
+                <ANNOTATION_VALUE>Ari ari, imashpa mana, ushashunmari.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a290"
+                TIME_SLOT_REF1="ts295" TIME_SLOT_REF2="ts296">
+                <ANNOTATION_VALUE>Ama niwaychu?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a291"
+                TIME_SLOT_REF1="ts297" TIME_SLOT_REF2="ts298">
+                <ANNOTATION_VALUE>Kipaman mamallaktata ñawpaman apankapakka, nachu?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a292"
+                TIME_SLOT_REF1="ts299" TIME_SLOT_REF2="ts300">
+                <ANNOTATION_VALUE>Ari, shinapacha.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a293"
+                TIME_SLOT_REF1="ts301" TIME_SLOT_REF2="ts302">
+                <ANNOTATION_VALUE>Imashpatak na ninchik, mashi Amaru Sánchez?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a294"
+                TIME_SLOT_REF1="ts303" TIME_SLOT_REF2="ts304">
+                <ANNOTATION_VALUE>Nimata mana killkashkanchikchu cobardekunamantaka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a295"
+                TIME_SLOT_REF1="ts305" TIME_SLOT_REF2="ts306">
+                <ANNOTATION_VALUE>Kutin sinchi, valiente runakunamantaka yapataka killkashka.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a296"
+                TIME_SLOT_REF1="ts307" TIME_SLOT_REF2="ts308">
+                <ANNOTATION_VALUE>Shinapash paykunallatak mana killkay katiyta usharkachu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a297"
+                TIME_SLOT_REF1="ts309" TIME_SLOT_REF2="ts310">
+                <ANNOTATION_VALUE>Jaboneropak ayllullaktapi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a298"
+                TIME_SLOT_REF1="ts311" TIME_SLOT_REF2="ts312">
+                <ANNOTATION_VALUE>Pandemiamanta rimaykuna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Chihiro Taguchi" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="FORM" PARENT_REF="default" TIER_ID="FORM">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a181">
+                <ANNOTATION_VALUE>Chayka</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a181" PREVIOUS_ANNOTATION="a312">
+                <ANNOTATION_VALUE>nisha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a181" PREVIOUS_ANNOTATION="a313">
+                <ANNOTATION_VALUE>nimi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a232">
+                <ANNOTATION_VALUE>wichakashpa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER
+        ANNOTATOR="Chihiro Taguchi, Jefferson Saransig, Dayana Velásquez"
+        DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="FORM"
+        PARENT_REF="default" TIER_ID="Spanish">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Hoy es el día de las elecciones.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>En el Barrio del Jabonero y en todo el Municipio la gente está nerviosa.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Por último, Amaru Sánchez, ¿cree que va a ganar la Alcaldía?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>No hay que cacarear los huevos antes de ponerlos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Pero yo creo que sí, que ganaremos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>En el Barrio del Jabonero</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Historias de la pandemia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Capítulo diecinueve</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Mandar obedeciendo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Corren los rumores, mejor dicho, los chismes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Y hasta se dispararon las apuestas en la casa rosada.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>[MISSING]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>[MISSING]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Yo pongo cinco a que gana el pastor.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>¡Y viva Cristo Rey!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Pues yo pongo diez a favor del Amaru, ése que vino del monte.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>¿Qué dicen ustedes, buitres sin nido?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Apolonio es el hombre.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Ése gana porque gana.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Será una victoria.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Blanco.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>Pues a mí que me dejen con la Chica Fire.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>Con Patita de Santo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>Ya tienen colocadas las urnas en todos los barrios del Municipio.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>Y en todas las comunidades rurales.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>Hay que ir a votar con cédula y con mascarilla.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>Yo lo que no entiendo es por qué la alcaldesa Magdalena no se lanzó a la reelección.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>Habría ganado.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Lo mismo me pregunto yo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>Creo que tiene un amarre con el tal Amaru Sánchez.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>¿Amarre de bolsillo o de corazón?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>Hasta ahí no llego, vecina.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>Cada partido está en su local de campaña, como preparándose para ganar una guerra.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>¿Quieren escuchar al pastor?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>Acérquense a su iglesia.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Hoy no gano yo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>Hermanos, gana Jesucristo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>La Biblia en la Alcaldía será nuestra alegría.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>El caradura de Apolonio, según me contaron, estaba fumando marihuana con el Guapo y con otros más de su pandilla.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>Esto es nuestro.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>Y el empresario Armando tomando whisky, muy seguro de su triunfo por la plata que había echado a correr por debajo de la mesa.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>¡Salud, don Armando!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>Salud por la carretera y por la hidroeléctrica.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Nosotros nos reunimos en mi casa.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>Llegó Gumersinda, la de los huertos y cooperativas.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>Llegó Joaquín, el electrónico.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Radiomanta wambrakuna shamushka, chaykuna takikunatalla churay ushan karka.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Llegó Marta y el doctor.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>Bueno, todo el grupo del partido Matria Libre.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>Y llegó Amaru Sánchez, nuestro candidato, con su infaltable sombrero de paño negro.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>¿Cómo estás, Amaru?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>Tranquilo, tranquilo, pero impaciente.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>¿Ganaremos, Amaru?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>No sabemos, doña Gumer, porque estamos en el Jabonero y los que no caen resbalan.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>[UNK]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>En realidad, más que lo de la Alcaldía, a mí me interesa la consulta popular sobre la minería.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>Esa sí que no la podemos perder.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE>Es que los del Ministerio se habían comprometido, a raíz de los líos en la cabecera del río, a hacer una consulta a la población sobre la minería a cielo abierto.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE>Ellos ya se habían olvidado, pero la Alcaldesa no.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE>Magdalena ha instalado, junto a las ánforas para alcaldes y concejales, otra urna para la consulta popular.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a120">
+                <ANNOTATION_VALUE>Las papeletas tienen una sola pregunta.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE>¿Está usted de acuerdo con la prohibición de la explotación minera metálica a gran escala en las cabeceras de río y otras fuentes de agua?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a122">
+                <ANNOTATION_VALUE>¿Sí o no?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE>Si ganamos la consulta, aunque perdamos la Alcaldía, estamos más que felices.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE>No olvides que no es vinculante.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>Pero con una victoria contundente la haremos vinculante.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a126">
+                <ANNOTATION_VALUE>Tendremos una bandera para luchar contra ese imperio llamado Golden Hands.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a127">
+                <ANNOTATION_VALUE>Eso es cierto.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a128">
+                <ANNOTATION_VALUE>Y además, esa victoria sería un empujón para hacer otras consultas sobre el petróleo en la Amazonía, sobre la ganadería que acaba con los bosques, sobre los transgénicos y los glifosatos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a129">
+                <ANNOTATION_VALUE>El mal ejemplo se pega, pero el bueno también.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a130">
+                <ANNOTATION_VALUE>¡Si lo sabré yo!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a131">
+                <ANNOTATION_VALUE>Son las siete de la mañana y acaban de abrir las ánforas.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a132">
+                <ANNOTATION_VALUE>Vean esas colas, largas colas, para la votación.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a133">
+                <ANNOTATION_VALUE>Más largas por el distanciamiento físico.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>Están prohibidas las camisetas y las banderitas y las gorras de los partidos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a150">
+                <ANNOTATION_VALUE>También están prohibidas las cervezas.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>Pero siempre hay tiempo para darle a la sin hueso.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>Distancia, caramba, que no se van a robar las cajitas.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>Las urnas no, pero las papeletas sí.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a154">
+                <ANNOTATION_VALUE>En este Barrio el fraude es más seguro que el juego limpio.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a155">
+                <ANNOTATION_VALUE>No comiencen con las sospechas que la Alcaldía ha organizado bien las cosas.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>Haga lo que haga la Alcaldía, hoy va a ganar Jesucristo, alabado sea.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>Ustedes van a comprobar que quien ríe último.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a158">
+                <ANNOTATION_VALUE>Hermana, el que ríe último es que no entendió el chiste.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE>Insolente.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a170">
+                <ANNOTATION_VALUE>[MISSING]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a171">
+                <ANNOTATION_VALUE>¡Meta su papeleta y deje la cantaleta, señora!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a172">
+                <ANNOTATION_VALUE>Son las cinco de la tarde y acaban de cerrar las urnas.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>Ahora, a esperar el conteo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a174">
+                <ANNOTATION_VALUE>Primero van a dar los resultados de la consulta popular, porque es cuestión de Sí o No.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a175">
+                <ANNOTATION_VALUE>Atención, ciudadanas y ciudadanos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>La comisión de conteo ya tiene los resultados definitivos de la consulta popular.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a177">
+                <ANNOTATION_VALUE>[MISSING] La pregunta era</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a178">
+                <ANNOTATION_VALUE>¿Está usted de acuerdo con la prohibición de la explotación minera metálica a gran escala en las cabeceras de río y otras fuentes de agua?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a179">
+                <ANNOTATION_VALUE>¿Sí o no?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a180">
+                <ANNOTATION_VALUE>Ciento cuarenta y un mil setecientos cuarenta y siete votos a favor.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a181">
+                <ANNOTATION_VALUE>Esto equivale al 82.7 por ciento de los votos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a182">
+                <ANNOTATION_VALUE>Hay un quince punto uno por ciento en contra.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a183">
+                <ANNOTATION_VALUE>Y un 2.2 por ciento de votos nulos o blancos.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a184">
+                <ANNOTATION_VALUE>Es decir, este municipio no quiere ninguna megaempresa minera metálica en su territorio.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a185">
+                <ANNOTATION_VALUE>Con esto me doy por satisfecho.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a186">
+                <ANNOTATION_VALUE>¿Crees que vamos a perder la Alcaldía?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a187">
+                <ANNOTATION_VALUE>Con tal que no ganen los pastores ni los apolonios ni los empresarios.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a188">
+                <ANNOTATION_VALUE>¿Y qué quieres, que gane el futbolista o la chica bailarina?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a209">
+                <ANNOTATION_VALUE>A las 8 de la noche, ya están los resultados de las elecciones municipales.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a210">
+                <ANNOTATION_VALUE>Ahora vamos a conocer el nombre del nuevo alcalde.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a211">
+                <ANNOTATION_VALUE>No lo podíamos creer.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a212">
+                <ANNOTATION_VALUE>Por una ventaja de nueve puntos había ganado nuestro candidato Amaru Sánchez.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a213">
+                <ANNOTATION_VALUE>[MISSING]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a214">
+                <ANNOTATION_VALUE>¿Estaríamos soñando?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a221">
+                <ANNOTATION_VALUE>[MISSING]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a222">
+                <ANNOTATION_VALUE>Don Amaru, una entrevista para la radio Mundial.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a223">
+                <ANNOTATION_VALUE>Permiso, somos de la televisión Te ve la.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a224">
+                <ANNOTATION_VALUE>Periodismo informativo al calor de la primicia.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a229">
+                <ANNOTATION_VALUE>Un momento, un momento.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a230">
+                <ANNOTATION_VALUE>Vamos a hacer una rueda de prensa y respondo todas las preguntas.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a231">
+                <ANNOTATION_VALUE>Un hormiguero de periodistas de radio, prensa y televisión.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a232">
+                <ANNOTATION_VALUE>Amaru encontró un banco del parque y se subió ahí rodeado de gente…</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a233">
+                <ANNOTATION_VALUE>¿Se considera un outsider de la política?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a234">
+                <ANNOTATION_VALUE>Me considero un dirigente indígena.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a235">
+                <ANNOTATION_VALUE>Don Amaru, ¿cómo lo clasificamos, de derecha o de izquierda?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a236">
+                <ANNOTATION_VALUE>Mejor no me clasifique.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a237">
+                <ANNOTATION_VALUE>Pero, ¿usted mira hacia la derecha o hacia la izquierda?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a238">
+                <ANNOTATION_VALUE>Prefiero mirar hacia arriba y hacia abajo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a239">
+                <ANNOTATION_VALUE>A los de arriba les sobra lo que a los de abajo les falta.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a240">
+                <ANNOTATION_VALUE>¿Las principales políticas públicas que va a impulsar desde la Alcaldía?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a241">
+                <ANNOTATION_VALUE>Los derechos de la Naturaleza serán el eje central de nuestra administración.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a271" ANNOTATION_REF="a242">
+                <ANNOTATION_VALUE>A usted lo han terruqueado mucho en los medios de comunicación.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a243">
+                <ANNOTATION_VALUE>¿Qué diría sobre esto?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a273" ANNOTATION_REF="a244">
+                <ANNOTATION_VALUE>Terrorismo es el hambre y la miseria.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a245">
+                <ANNOTATION_VALUE>¿Cuál será su estilo de gobierno en la Alcaldía y con el Concejo Municipal?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a275" ANNOTATION_REF="a246">
+                <ANNOTATION_VALUE>Siempre me gustó la consigna de los zapatistas mexicanos: mandar obedeciendo.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a247">
+                <ANNOTATION_VALUE>Don Amaru, ¿a qué atribuye su victoria en las elecciones municipales?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a248">
+                <ANNOTATION_VALUE>Un cura salvadoreño, de la teología de la liberación, me enseñó una canción.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a249">
+                <ANNOTATION_VALUE>Cuando el pobre crea en el pobre ya podremos cantar libertad.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a250">
+                <ANNOTATION_VALUE>Eso es lo que ha ocurrido hoy.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a251">
+                <ANNOTATION_VALUE>Nos reunimos en mi casa.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a252">
+                <ANNOTATION_VALUE>Estamos recontra felices.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a253">
+                <ANNOTATION_VALUE>Abrazamos a Amaru, compramos unas cervezas, y entramos en confidencias.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a254">
+                <ANNOTATION_VALUE>¡Salud, salud!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a256">
+                <ANNOTATION_VALUE>Amaru, yo digo que este es el primer paso.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a257">
+                <ANNOTATION_VALUE>¿Y cuál es el segundo?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a299" ANNOTATION_REF="a286">
+                <ANNOTATION_VALUE>La gobernación.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a287">
+                <ANNOTATION_VALUE>Oy, espérese, vamos despacio que tengo prisa.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a288">
+                <ANNOTATION_VALUE>Alcaldía, gobernación, y luego a la Asamblea Nacional.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a289">
+                <ANNOTATION_VALUE>[MISSING]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a290">
+                <ANNOTATION_VALUE>¿No me digan?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a291">
+                <ANNOTATION_VALUE>Y después a la Presidencia de la República, ¿no?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a292">
+                <ANNOTATION_VALUE>[MISSING]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a293">
+                <ANNOTATION_VALUE>¿Y por qué no, compañero Amaru Sánchez?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a294">
+                <ANNOTATION_VALUE>De los cobardes no se ha escrito nada.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a295">
+                <ANNOTATION_VALUE>Y de los valientes mucho.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a309" ANNOTATION_REF="a296">
+                <ANNOTATION_VALUE>Pero no lo pudieron leer.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a297">
+                <ANNOTATION_VALUE>En el Barrio del Jabonero</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a298">
+                <ANNOTATION_VALUE>Historias de la pandemia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Chihiro Taguchi" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="FORM" PARENT_REF="FORM" TIER_ID="LEMMA"/>
+    <TIER ANNOTATOR="Chihiro Taguchi" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="FORM" PARENT_REF="FORM" TIER_ID="UPOS"/>
+    <TIER ANNOTATOR="Chihiro Taguchi" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="FORM" PARENT_REF="FORM" TIER_ID="FEATS"/>
+    <TIER ANNOTATOR="Chihiro Taguchi" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="FORM" PARENT_REF="FORM" TIER_ID="ID"/>
+    <TIER ANNOTATOR="Chihiro Taguchi" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="FORM" PARENT_REF="FORM" TIER_ID="HEAD"/>
+    <TIER ANNOTATOR="Chihiro Taguchi" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="FORM" PARENT_REF="FORM" TIER_ID="DEPREL"/>
+    <TIER ANNOTATOR="Chihiro Taguchi" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="FORM" PARENT_REF="FORM" TIER_ID="MISC"/>
+    <TIER ANNOTATOR="Chihiro Taguchi" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="FORM" PARENT_REF="FORM" TIER_ID="Notes">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a315">
+                <ANNOTATION_VALUE>subiendose (wichakamuy!: come here climbing up)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="FORM" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
