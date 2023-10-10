@@ -4,8 +4,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/chihiro-t/kichwa_audio/Chapter3/195/03 MASTER K3_727180_729580.mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="Chapter3/195/03 MASTER K3_727180_729580.mp4"/>
+            MEDIA_URL="file:///Users/chihiro-t/kichwa_audio/Chapter3/195/03 MASTER K3195.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="Chapter3/195/03 MASTER K3195.mp4"/>
         <PROPERTY NAME="lastUsedAnnotationId">a197</PROPERTY>
     </HEADER>
     <TIME_ORDER>
@@ -16,7 +16,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>Jaboneropak ayllu llaktapi.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jaboneropak ayllullaktapi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>

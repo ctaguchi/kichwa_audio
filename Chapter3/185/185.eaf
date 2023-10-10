@@ -4,19 +4,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/chihiro-t/kichwa_audio/Chapter3/185/03 MASTER K3_690250_693950.mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="Chapter3/185/03 MASTER K3_690250_693950.mp4"/>
-        <PROPERTY NAME="lastUsedAnnotationId">a187</PROPERTY>
+            MEDIA_URL="file:///Users/chihiro-t/kichwa_audio/Chapter3/185/03 MASTER K3185.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="Chapter3/185/03 MASTER K3185.mp4"/>
+        <PROPERTY NAME="lastUsedAnnotationId">a188</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2790"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>Wayra purichun, ventanakunata paskashka kachun.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Hatun pampakunapi pukllakuchun.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>

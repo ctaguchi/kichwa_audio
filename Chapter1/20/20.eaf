@@ -4,9 +4,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/chihiro-t/kichwa_audio/Chapter1/20/01 MASTER K1_76360_83210.mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="Chapter1/20/01 MASTER K1_76360_83210.mp4"/>
-        <PROPERTY NAME="lastUsedAnnotationId">a18</PROPERTY>
+            MEDIA_URL="file:///Users/chihiro-t/kichwa_audio/Chapter1/20/01 MASTER K120.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="Chapter1/20/01 MASTER K120.mp4"/>
+        <PROPERTY NAME="lastUsedAnnotationId">a1454</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
